@@ -1,2 +1,2 @@
-# Salary-Hike--Python_LRegression
+# Salary-Hike_Python_LinearRegression
 Salary Hike -Python _Linear Regression
